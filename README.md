@@ -16,14 +16,14 @@ springBoot，mybatis-Plus，redis， Mysql，Lombok，maven
 SSM（Spring+SpringMVC+Mybatis-plus）技术。
 
 #### 安装教程
-前端文件下载地址（阿里云盘）：https://www.aliyundrive.com/s/duTgEawZpqm
+前端文件下载地址：链接：https://pan.baidu.com/s/1ulP8fkFyidyxYcQlv5vwUw 提取码：kdc4 
 
 1.  需要先在本地启动前端项目（blog-app），在blog-app的目录中打开cmd命令窗，依次执行以下命令
     ~~~
     npm run build
     npm run dev
     ~~~
-    ![img.png](images/img.png)
+   ![启动成功](https://images.gitee.com/uploads/images/2021/0905/220415_0ef66f7c_8793792.png "屏幕截图.png")
     出现以上页面前端页面启动成功。
 2.  启动Redis服务器
 3.  需要注册七牛云（免费使用），注册后在个人中心找到新建存储空间如下图所示
