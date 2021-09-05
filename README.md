@@ -24,15 +24,18 @@ SSM（Spring+SpringMVC+Mybatis-plus）技术。
     npm run dev
     ~~~
    ![启动成功](https://images.gitee.com/uploads/images/2021/0905/220415_0ef66f7c_8793792.png "屏幕截图.png")
+    
     出现以上页面前端页面启动成功。
 
 2.  启动本地Redis服务器
 
 3.  需要注册七牛云（免费使用），注册后在个人中心找到新建存储空间如下图所示
 ![img_1.png](images/img_1.png)
+    
     新建好存储空间后，在个人中心找到密钥管理如下图
     ![img_2.png](images/img_2.png)
-    将自己的密钥复制到application.properties文件的对应位置。
+   
+     将自己的密钥复制到application.properties文件的对应位置。
     
 4.执行.sql文件。修改配置文件中自己MySQL的用户名和密码
 
