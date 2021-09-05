@@ -36,8 +36,14 @@ SSM（Spring+SpringMVC+Mybatis-plus）技术。
 5.启动后端项目，启动成功后访问localhost:8080即可
 
 
+#### 博客界面展示
+![首页](https://images.gitee.com/uploads/images/2021/0905/211021_dd0b2ebf_8793792.png "屏幕截图.png")
+![阅读文章](https://images.gitee.com/uploads/images/2021/0905/211215_eeb4219f_8793792.png "屏幕截图.png")
+![文章分类](https://images.gitee.com/uploads/images/2021/0905/211056_6971ef34_8793792.png "屏幕截图.png")
+![标签分类](https://images.gitee.com/uploads/images/2021/0905/211116_72cbe501_8793792.png "屏幕截图.png")
+![文章归档](https://images.gitee.com/uploads/images/2021/0905/211136_332a31cb_8793792.png "屏幕截图.png")
 
-#### 我的个人博客
+我的个人博客（非本开源博客）
 https://blog.piaopiaoguangchang.cn/
 
 
