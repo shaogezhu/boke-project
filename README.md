@@ -25,7 +25,9 @@ SSM（Spring+SpringMVC+Mybatis-plus）技术。
     ~~~
    ![启动成功](https://images.gitee.com/uploads/images/2021/0905/220415_0ef66f7c_8793792.png "屏幕截图.png")
     出现以上页面前端页面启动成功。
-2.  启动Redis服务器
+
+2.  启动本地Redis服务器
+
 3.  需要注册七牛云（免费使用），注册后在个人中心找到新建存储空间如下图所示
 ![img_1.png](images/img_1.png)
     新建好存储空间后，在个人中心找到密钥管理如下图
