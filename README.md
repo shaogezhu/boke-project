@@ -16,6 +16,7 @@ springBoot，mybatis-Plus，redis， Mysql，Lombok，maven
 SSM（Spring+SpringMVC+Mybatis-plus）技术。
 
 #### 安装教程
+前端文件下载地址（阿里云盘）：https://www.aliyundrive.com/s/duTgEawZpqm
 
 1.  需要先在本地启动前端项目（blog-app），在blog-app的目录中打开cmd命令窗，依次执行以下命令
     ~~~
