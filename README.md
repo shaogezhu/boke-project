@@ -50,6 +50,6 @@ SSM（Spring+SpringMVC+Mybatis-plus）技术。
 ![文章归档](https://images.gitee.com/uploads/images/2021/0905/211136_332a31cb_8793792.png "屏幕截图.png")
 
 我的个人博客（非本开源博客）
-https://blog.piaopiaoguangchang.cn/
+https://shaogezhu.cn/
 
 
